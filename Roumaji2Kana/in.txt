@@ -1,0 +1,139 @@
+
+■50音
+(あ行)
+A I U E O(大文字)
+a i u e o(小文字)
+la li lu le lo
+xa xi xu xe xo
+
+(か行)
+ka ki ku ke ko
+
+(さ行)
+sa si su se so
+   shi
+   ci
+
+(た行)
+ta ti tu te to
+   chi tsu
+      ltu
+      xtu
+
+(な行)
+na ni nu ne no
+
+(は行)
+ha hi hu he ho
+      fu
+
+(ま行)
+ma mi mu me mo
+
+(や行)
+ya yi yu ye yo
+lya lyi lyu lye lyo
+xya xyi xyu xye xyo
+
+(ら行)
+ra ri ru re ro
+
+(わ行)
+wa wo
+
+(ん)
+n
+nn
+xn
+
+■濁音
+(が行)
+ga gi gu ge go
+
+(ざ行)
+za zi zu ze zo
+   ji
+
+(だ行)
+da di du de do
+
+(ば行)
+ba bi bu be bo
+
+■半濁音
+(ぱ行)
+pa pi pu pe po
+
+■拗音
+(あ行)
+wha whi whe who
+
+(か行)
+kya kyi kyu kye kyo
+kwa
+qya qyu qyo
+qwa qwi qwu qwe qwo
+qa qi qe qo
+qyi qye
+
+gya gyi gyu gye gyo
+gwa gwi gwu gwe gwo
+
+(さ行)
+sya syi syu sye syo
+sha shu she sho
+swa swi swu swe swo
+
+(た行)
+tya tyi tyu tye tyo
+cya cyi cyu cye cyo
+cha chu che sho
+tsa tsi tse tso
+tha thi thu the tho
+twa twi twu twe two
+
+dya dyi dyu dye dyo
+dha dhi dhu dhe dho
+dwa dwi dwu dwe dwo
+
+(な行)
+nya nyi nyu nye nyo
+
+(は行)
+hya hyi hyu hye hyo
+fya fyu fyo
+fa fi fe fo
+fyi fye
+fwa fwi fwu fwe fwo
+
+bya byi byu bye byo
+va vi vu ve vo
+vya vyi vyu vye vyo
+
+pya pyi pyu pye pyo
+
+(ま行)
+mya myi myu mye myo
+
+(や行)
+lya lyi lyu lye lyo
+xya xyi xyu xye xyo
+
+(ら行)
+rya ryi ryu rye ryo
+
+■全角のローマ字
+ＡＩＵＥＯ
+ＤＡＴＴＹＵ-ｎｏ
+ＤＡＴＴＹＵ－ｎｏ
+ＴＳＫＡ
+ＳＮｓ
+ｔｔｔＵ
+ｆｆa
+kyatti
+ｋyaｔti
+ＤＡDＴＴＹＵ－ｄｎｏ
+
+■でたらめ
+derakjtakjfaaknghagahkfagagｗｈｇuhayrakncnakgkjaea
+
