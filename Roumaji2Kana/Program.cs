@@ -48,14 +48,14 @@ namespace Roumaji2Kana {
 			/*
 			 * get kana
 			 */
-			StringBuilder sb = new StringBuilder();
-			foreach ( string s in rc ) sb.Append( s );
+			string hiragana = rc.Hiragana;
+
 
 			/*
 			 * output file
 			 */
 			using ( StreamWriter writer = new StreamWriter( args[ 0 ] + "_out.txt", false, Encoding.GetEncoding( "utf-8" ) ) ) {
-				writer.Write( sb );
+				writer.Write( hiragana );
 			}
 
 			// ----------------- ここからお遊び -----------------
@@ -68,7 +68,7 @@ namespace Roumaji2Kana {
 			/*
 			 * ひらがなの使用回数
 			 */
-			sb.Length = 0;
+			StringBuilder sb = new StringBuilder(); 
 			foreach ( var m in rc.GroupBy( s => s ).OrderByDescending( g => g.Count() ) ) {
 				string s = string.Format( "[{0}] Count = {1}", m.Key.Replace( "\r", @"\r" ).Replace( "\n", @"\n" ), m.Count() );
 				sb.AppendLine( s );
@@ -119,6 +119,19 @@ namespace Roumaji2Kana {
 
 		// property
 		public string Roumaji { get; set; }
+
+		// property
+		public string Hiragana {
+			get {
+
+				StringBuilder sb = new StringBuilder();
+				IEnumerator<string> hiragana = this.GetEnumerator();
+				while ( hiragana.MoveNext() ) sb.Append( hiragana.Current );
+
+				return sb.ToString();
+
+			}
+		}
 
 		// constructor
 		public RoumajiCollection() : this( "" ) {
